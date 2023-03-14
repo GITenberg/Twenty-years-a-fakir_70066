@@ -1,12 +1,17 @@
 _repo: Twenty-years-a-fakir_70066
 _version: 0.1.0
 alternative_title: 20 years a fakir
+covers:
+- cover_type: archival
+  image_path: 70066-h/images/cover.jpg
 creator:
   author:
     agent_name: Weldon, S. James
     gutenberg_agent_id: '55577'
     url: http://www.gutenberg.org/2009/agents/55577
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70066#Twenty-years-a-fakir
 gutenberg_issued: '2023-02-18'
 identifiers:
   gutenberg: '70066'
